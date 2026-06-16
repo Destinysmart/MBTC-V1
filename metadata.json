@@ -1,0 +1,8 @@
+{
+  "name": "MoloBTC",
+  "description": "Beginner-friendly Open Source Bitcoin Research Workspace for Molo BTC with interactive simulators, visual aids, and Molo AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
